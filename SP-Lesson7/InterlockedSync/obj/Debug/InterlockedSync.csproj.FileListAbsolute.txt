@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\bin\Debug\InterlockedSync.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\bin\Debug\InterlockedSync.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\bin\Debug\InterlockedSync.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\obj\Debug\InterlockedSync.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\obj\Debug\InterlockedSync.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP-Lesson7\InterlockedSync\obj\Debug\InterlockedSync.pdb
